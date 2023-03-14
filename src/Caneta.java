@@ -26,7 +26,7 @@ public class Caneta {
         this.tampada = true;
     }
 
-    public void destampar(){    
+    public void destampar(){
         this.tampada = false;
     }
 
