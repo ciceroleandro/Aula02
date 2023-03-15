@@ -9,8 +9,5 @@ public class Main {
         c1.tampar();
         c1.rabiscar();
         c1.status();
-
-
-
     }
 }
